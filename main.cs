@@ -1,2 +1,2 @@
 
-Console.WriteLine("Hello"
+Console.riteLine("Hello"
